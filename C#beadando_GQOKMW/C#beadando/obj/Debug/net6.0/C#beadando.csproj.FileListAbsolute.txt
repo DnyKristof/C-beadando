@@ -1,0 +1,15 @@
+C:\Users\danyi\source\repos\C#beadando\C#beadando\bin\Debug\net6.0\C#beadando.exe
+C:\Users\danyi\source\repos\C#beadando\C#beadando\bin\Debug\net6.0\C#beadando.deps.json
+C:\Users\danyi\source\repos\C#beadando\C#beadando\bin\Debug\net6.0\C#beadando.runtimeconfig.json
+C:\Users\danyi\source\repos\C#beadando\C#beadando\bin\Debug\net6.0\C#beadando.dll
+C:\Users\danyi\source\repos\C#beadando\C#beadando\bin\Debug\net6.0\C#beadando.pdb
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.csproj.AssemblyReference.cache
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.AssemblyInfoInputs.cache
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.AssemblyInfo.cs
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.csproj.CoreCompileInputs.cache
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.dll
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\refint\C#beadando.dll
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.pdb
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\C#beadando.genruntimeconfig.cache
+C:\Users\danyi\source\repos\C#beadando\C#beadando\obj\Debug\net6.0\ref\C#beadando.dll
